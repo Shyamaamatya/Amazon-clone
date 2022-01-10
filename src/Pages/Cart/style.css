@@ -1,0 +1,17 @@
+.cart {
+    display: flex;
+  }
+  .cart-left {
+    flex: 5;
+  }
+ 
+  .cart-items > h2 {
+    text-align: center;
+  }
+
+  .cart-right {
+    flex: 1;
+    align-items: center;
+  }
+
+ 
